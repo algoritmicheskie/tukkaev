@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    border-radius: 5px;
+    background-color: cyan;
+    margin: 20px;
+
+}
+
+header{
+    background-image: linear-gradient(cyan,violet);
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+
+main h1{
+    text-align: center;
+}
+
+
+a img:hover{
+    transform: scale(1.2);
+    transition: all 1s;
+}
+
+
+a{
+    color: blue;
+}
